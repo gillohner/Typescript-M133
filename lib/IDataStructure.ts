@@ -1,3 +1,3 @@
-export interface IDataScructure {
+export interface IDataStructure {
     size(): number;
 }
